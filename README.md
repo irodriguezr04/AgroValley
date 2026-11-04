@@ -41,4 +41,4 @@ Entorno rural interactivo desarrollado en Unity con soporte para gráficos en Un
 ### Opción 2: Abrir el proyecto en Unity Editor
 1. Clona el repositorio en tu máquina:
    ```bash
-   git clone [https://github.com/irodriguezr04/AgroValley.git](https://github.com/irodriguezr04/AgroValley.git)
+   git clone https://github.com/irodriguezr04/AgroValley.git
