@@ -18,7 +18,12 @@ Entorno rural interactivo desarrollado en **Unity** con soporte para gráficos e
 
 ## Instalación y Ejecución
 
-### Probar el ejecutable (.exe)
+### Opción 1: Probar el ejecutable (.exe)
 1. Descarga el archivo comprimido `.zip` desde el apartado de **Releases** de este repositorio.
 2. Descomprime la carpeta en tu equipo.
 3. Ejecuta el archivo `AgroValley.exe`.
+
+### Opción 2: Abrir el proyecto en Unity Editor
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/irodriguezr04/AgroValley.git
